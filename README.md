@@ -61,3 +61,4 @@ pip install -r requirements.txt
 pandas==2.2.2
 plotly==5.21.0
 `
+link of the linkedin post - https://www.linkedin.com/posts/akash-ranjan-071917325_dataanalysis-python-jupyternotebook-activity-7380468847461429248-8J1s?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFIu_JUB6zUwP3hG6C1jFV9gtuRQpcMv9ps
